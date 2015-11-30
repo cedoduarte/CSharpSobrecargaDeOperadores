@@ -1,0 +1,5 @@
+c:\users\cedo\documents\visual studio 2012\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.exe.config
+c:\users\cedo\documents\visual studio 2012\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.exe
+c:\users\cedo\documents\visual studio 2012\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.pdb
+c:\users\cedo\documents\visual studio 2012\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.exe
+c:\users\cedo\documents\visual studio 2012\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.pdb
